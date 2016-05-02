@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\logo.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\select_stamp.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\select_stamp.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat_bubble_friend.9.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\chat_bubble_friend.9.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_user.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\tab_user.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\error.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\error.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chat_bubble_me.9.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\chat_bubble_me.9.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\spinner.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\spinner.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\send.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\send.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\add_stamp.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\add_stamp.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\tab_chat.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\tab_chat.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sort_stamp.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\sort_stamp.png"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_account.png",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\drawable-nodpi\\list_account.png"
+    }
+]

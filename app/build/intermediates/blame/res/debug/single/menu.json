@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_friend_menu.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\menu\\add_friend_menu.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_menu.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\menu\\chat_menu.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sort_popup_menu.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\menu\\sort_popup_menu.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_menu.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\menu\\user_menu.xml"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_signup.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_confirm_friend.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\fragment_confirm_friend.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_stamp_me.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\chat_stamp_me.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message_friend.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\chat_message_friend.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_list_dialog.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\fragment_select_list_dialog.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_list_item.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\image_list_item.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_friend.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\activity_add_friend.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_signin.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\fragment_signin.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_message_me.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\chat_message_me.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_stamp_friend.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\chat_stamp_friend.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stamp_image_item.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\stamp_image_item.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_select_stamp_dialog.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\fragment_select_stamp_dialog.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\APP\\KiiChat-gihyo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
+        "source": "E:\\APP\\KiiChat-gihyo-master1\\app\\src\\main\\res\\layout\\tab.xml"
+    }
+]
